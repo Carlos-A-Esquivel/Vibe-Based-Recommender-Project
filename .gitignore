@@ -1,0 +1,11 @@
+# Data folder
+data/ 
+
+# Jupyter checkpoint folders
+.ipynb_checkpoints
+
+# Python cache folders
+__pychache__/
+
+# Environment files
+.env 
