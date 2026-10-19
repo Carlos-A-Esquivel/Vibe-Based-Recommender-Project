@@ -57,7 +57,11 @@ The project is built in layers, so each stage is functional and demo-able on its
 - [ ] **Phase 3: Backend, frontend, and deployment**
 - [ ] **Phase 4: Vibe layer, aesthetic matching** (whole-room style analysis)
 - [ ] **Phase 5: Vibe layer, theme detection** (franchise and genre recognition, decor domain)
-- [ ] **Stretch goals:** object detection for individual items, OCR for text-based decor, blending room photos with style goals
+- [ ] **Stretch goals**
+  - [ ] Object detection for individual items
+  - [ ] OCR for text-based decor
+  - [ ] Blending room photos with style goals
+  - [ ] Music as an additional domain, including recognizing music posters and album art
 
 ## Evaluation
 
