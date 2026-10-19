@@ -1,4 +1,4 @@
-# Vibe-Based Recommender
+# Resonance
 
 A cross-domain recommendation system that suggests movies, books, shows, and home decor based on what you love and what your space looks like.
 
